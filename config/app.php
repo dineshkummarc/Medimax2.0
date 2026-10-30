@@ -4,7 +4,7 @@
  */
 
 // Base URL - adjust if project is in a different folder
-define('BASE_URL', '/MediMax/');
+define('BASE_URL', '/Medimax2.0/');
 
 // Application name
 define('APP_NAME', 'MediMax');
